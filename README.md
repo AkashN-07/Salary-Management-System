@@ -21,4 +21,5 @@ Insert - insert is used to insert a new values.
 
 ![](Images/Department%20Details%2008-11-2019%2021_19_31.png)
 
-![](Images/EmployeeReport%2013-11-2019%2021_28_46.png)
+![]((https://user-images.githubusercontent.com/57359605/117843814-c84c0680-b29c-11eb-83c8-d0abc3be4daa.png)
+EmployeeReport%2013-11-2019%2021_28_46.png)
